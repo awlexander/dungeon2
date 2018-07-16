@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "284545015080",
+    "firebase_url": "https://awlex-dungeon-challenge.firebaseio.com",
+    "project_id": "awlex-dungeon-challenge",
+    "storage_bucket": "awlex-dungeon-challenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284545015080:android:560e0e25d0f60f09",
+        "android_client_info": {
+          "package_name": "com.awlex.dungeonchallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284545015080-4fkdv76qqrvvmcucm7hf9kr26k2pkq2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMe9niRkrLnNJLzy5UAhGlhcDOftX74_4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
